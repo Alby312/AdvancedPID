@@ -85,6 +85,7 @@ void loop() {
   analogWrite(3, output);
   delay(10); // PID automatically handles dt calculation
 }
+```
 
 ## Contributing
 
